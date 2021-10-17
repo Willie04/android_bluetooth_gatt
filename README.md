@@ -1,0 +1,2 @@
+# android_bluetooth_gatt
+第一個branch 簡單掃描還沒有recyleview onclick
